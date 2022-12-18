@@ -8,9 +8,10 @@ N/A
 
 ## Usage
 This project can be used as a reference to review HTML semantic flows and logical structures with comments along the way. 
-In index.html, any text/message located in <!-"text/message"-> will act as comments and indicate the changes that were made. 
+
+<li> In index.html, any text/message located in <!-"text/message"-> will act as comments and indicate the changes that were made. </li>
 ![alt=Descriptive-Comment-Example-Screenshot-Index](assets/images/Descriptive-Comment-Examples.png)
-In style.css, any text/message located in /*"text/message"*/ will act as comments and indicate the changes that were made.
+<li> In style.css, any text/message located in /*"text/message"*/ will act as comments and indicate the changes that were made. </li>
 ![alt=Descriptive-Comment-Example-Screenshot-Stylesheet](assets/images/Descriptive-Comment-Examples-Stylesheet.png)
 
 ## Credits
