@@ -9,10 +9,10 @@ N/A
 ## Usage
 This project can be used as a reference to review HTML semantic flows and logical structures with comments along the way. 
 
-<li> In index.html, any green text/message located in <!- -!> will act as comments and indicate the changes that were made. </li>
+<li> In index.html, green message will act as comments and indicate the changes that were made. </li>
 
 ![alt=Descriptive-Comment-Example-Screenshot-Index](assets/images/Descriptive-Comment-Examples.png)
-<li> In style.css, any green text/message located in /*"text/message"*/ will act as comments and indicate the changes that were made. </li>
+<li> In style.css, green message located in /*"text/message"*/ will act as comments and indicate the changes that were made. </li>
 
 ![alt=Descriptive-Comment-Example-Screenshot-Stylesheet](assets/images/Descriptive-Comment-Examples-Stylesheet.png)
 
