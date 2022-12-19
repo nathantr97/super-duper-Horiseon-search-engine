@@ -29,8 +29,13 @@ This project can be used as a reference to review HTML semantic flows and logica
 ![alt=Descriptive-Comment-Example-Screenshot-Stylesheet](assets/images/Descriptive-Comment-Examples-Stylesheet.png)
 
 ## Credits
-HTML Semantic Elements
+<li>HTML Semantic Elements</li>
+
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
+<li> CSS Selector Reference </li>
+
+https://www.w3schools.com/cssref/css_selectors.php
 
 ## License
 N/A
