@@ -17,11 +17,14 @@ N/A
 
 ## Usage
 This project can be used as a reference to review HTML semantic flows and logical structures with comments along the way. 
+<li> On Horiseon Webpage, interact with any of these 3 options to quickly access the corresponding information/resources.
 
-<li> In index.html, green message will act as comments and indicate the changes that were made. </li>
+![alt=Responsive-UI-feature](assets/images/Responsive-UI-Feature.png)
+
+<li> In index.html, any message located in angle brackets will indicate important comments and the changes that were made. </li>
 
 ![alt=Descriptive-Comment-Example-Screenshot-Index](assets/images/Descriptive-Comment-Examples.png)
-<li> In style.css, green message located in /*"text/message"*/ will act as comments and indicate the changes that were made. </li>
+<li> In style.css, any message located in /*"message"*/ will also act as comments and indicate the changes that were made. </li>
 
 ![alt=Descriptive-Comment-Example-Screenshot-Stylesheet](assets/images/Descriptive-Comment-Examples-Stylesheet.png)
 
