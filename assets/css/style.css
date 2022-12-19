@@ -67,15 +67,7 @@ p {
     background-position: center;
 }
 
-/* determine properties for following elements (parent element) */
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-
-/* consolidated 3 different article propertiesm (children elements) by identifying class=feature and using CSS selector command */
+/* consolidated 3 different article propertiesm by identifying class=feature and using CSS selector command */
 
 .feature {
     margin-bottom: 20px;
@@ -105,6 +97,14 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+/* determine properties for following elements */
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
 }
 
 /* aside class="benefit" section */
